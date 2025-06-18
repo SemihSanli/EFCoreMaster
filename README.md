@@ -122,7 +122,7 @@ Her entity, veritabanı tablolarını temsil etmekte ve EF Core aracılığıyla
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150601.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150613.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150626.png)
-![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150635.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/916fb40b40af4ba1a39455595ff2245528f7e8c7/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20161326.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150647.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150647.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20150711.png)
