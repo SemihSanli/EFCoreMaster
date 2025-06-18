@@ -144,3 +144,18 @@ Her entity, veritabanı tablolarını temsil etmekte ve EF Core aracılığıyla
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20151551.png)
 ![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/00600379569529b5c6f6d9736aebaf04f251b6bd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20151606.png)
 
+
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154510.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154536.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154618.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154715.png)
+
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154805.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154820.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154910.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154926.png)
+
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20154939.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20155041.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20155058.png)
+![ImageAlt](https://github.com/SemihSanli/EFCoreMaster/blob/7c87aa70258278e62c2443bf6beecd7816db89ac/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-18%20155152.png)
