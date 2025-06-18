@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\product\\skip4productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\product\\skip4productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_sidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_sidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_navbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_navbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_navbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_dailysalescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_dailysalescomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_dailysalescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_dailysalescomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_dailysalesdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_dailysalesdashboardcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\todostatuschartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\todostatuschartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_salestatuscomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_salestatuscomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_salestatuscomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_salestatuscomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\customercitychartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\customercitychartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_layouttodonavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_layouttodonavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_layouttodonavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_layouttodonavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_chartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_chartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_dashboardorderstatuschartcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_dashboardorderstatuschartcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_dashboardorderdatechartcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_dashboardorderdatechartcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\orderdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\orderdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\orderstatuschartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\orderstatuschartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_dashboardorderdatechartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_dashboardorderdatechartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_dashboardorderstatuschartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_dashboardorderstatuschartcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\order\\orderlistsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\order\\orderlistsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\customerorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\customerorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\shared\\components\\_layoutmessageonnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\shared\\components\\_layoutmessageonnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\viewcomponents\\_layoutmessageonnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\viewcomponents\\_layoutmessageonnavbarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\models\\productwithcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\models\\productwithcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\customer\\customerlistwithindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\customer\\customerlistwithindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\order\\orderlistwithcustomergroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\order\\orderlistwithcustomergroup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\product\\productlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\product\\productlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\customer\\customercastexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\customer\\customercastexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\customer\\customerlistwithdefaultifempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\customer\\customerlistwithdefaultifempty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|c:\\users\\semih\\source\\repos\\efstoreflow\\efstoreflow\\views\\customer\\customerintersectbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BBFDC3-5C38-4A9C-92EF-D82F2BD9D713}|EFStoreFlow\\EFStoreFlow.csproj|solutionrelative:efstoreflow\\views\\customer\\customerintersectbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skip4ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Product\\Skip4ProductList.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Product\\Skip4ProductList.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Product\\Skip4ProductList.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Product\\Skip4ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T12:10:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_NavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_NavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_NavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_NavbarComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_NavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:01:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_SidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_SidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_SidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_SidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:59:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_DailySalesComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DailySalesComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_DailySalesComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DailySalesComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_DailySalesComponentPartial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:58:15.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_DailySalesDashboardComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DailySalesDashboardComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_DailySalesDashboardComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DailySalesDashboardComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_DailySalesDashboardComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:52:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DailySalesComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_DailySalesComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DailySalesComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_DailySalesComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:48:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoStatusChartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\TodoStatusChartViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\TodoStatusChartViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\TodoStatusChartViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\TodoStatusChartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:24:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_SaleStatusComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_SaleStatusComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_SaleStatusComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_SaleStatusComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_SaleStatusComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:22:31.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:19:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EFStoreFlow\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:19:41.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_NavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:02:28.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EFStoreFlow\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:34:26.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_SaleStatusComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_SaleStatusComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_SaleStatusComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_SaleStatusComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:22:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFStoreFlow\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:22:30.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerCityChartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\CustomerCityChartViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\CustomerCityChartViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\CustomerCityChartViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\CustomerCityChartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:24:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_DashboardOrderDateChartComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DashboardOrderDateChartComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_DashboardOrderDateChartComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DashboardOrderDateChartComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_DashboardOrderDateChartComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:14:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\OrderDateViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\OrderDateViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\OrderDateViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\OrderDateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:14:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_DashboardOrderStatusChartComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DashboardOrderStatusChartComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_DashboardOrderStatusChartComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_DashboardOrderStatusChartComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_DashboardOrderStatusChartComponentPartial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:13:52.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_LayoutTodoNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_LayoutTodoNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_LayoutTodoNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_LayoutTodoNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:04:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutTodoNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_LayoutTodoNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_LayoutTodoNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_LayoutTodoNavbarComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_LayoutTodoNavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:03:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderStatusChartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\OrderStatusChartViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\OrderStatusChartViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\OrderStatusChartViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\OrderStatusChartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:15:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderDateChartComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderDateChartComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderDateChartComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderDateChartComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:18:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderStatusChartComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderStatusChartComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderStatusChartComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_DashboardOrderStatusChartComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:16:50.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_ChartComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_ChartComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_ChartComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_ChartComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:13:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_LayoutMessageOnNavbarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Shared\\Components\\_LayoutMessageOnNavbarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Shared\\Components\\_LayoutMessageOnNavbarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Shared\\Components\\_LayoutMessageOnNavbarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:11:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LayoutMessageOnNavbarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_LayoutMessageOnNavbarComponentPartial.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\ViewComponents\\_LayoutMessageOnNavbarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\ViewComponents\\_LayoutMessageOnNavbarComponentPartial.cs",
+              "RelativeToolTip": "EFStoreFlow\\ViewComponents\\_LayoutMessageOnNavbarComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:09:17.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderListSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Order\\OrderListSearch.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Order\\OrderListSearch.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Order\\OrderListSearch.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Order\\OrderListSearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T11:08:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerListWithIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerListWithIndex.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Customer\\CustomerListWithIndex.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerListWithIndex.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Customer\\CustomerListWithIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T10:39:22.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderListWithCustomerGroup.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Order\\OrderListWithCustomerGroup.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Order\\OrderListWithCustomerGroup.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Order\\OrderListWithCustomerGroup.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Order\\OrderListWithCustomerGroup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T10:37:31.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\CustomerOrderViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\CustomerOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\CustomerOrderViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\CustomerOrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:35:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductWithCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\ProductWithCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Models\\ProductWithCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Models\\ProductWithCategoryViewModel.cs",
+              "RelativeToolTip": "EFStoreFlow\\Models\\ProductWithCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:25:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductListWithCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Product\\ProductListWithCategory.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Product\\ProductListWithCategory.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Product\\ProductListWithCategory.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Product\\ProductListWithCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T10:24:56.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerCastExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerCastExample.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Customer\\CustomerCastExample.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerCastExample.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Customer\\CustomerCastExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:41:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerIntersectByCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerIntersectByCity.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Customer\\CustomerIntersectByCity.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerIntersectByCity.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Customer\\CustomerIntersectByCity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:35:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerListWithDefaultIfEmpty.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerListWithDefaultIfEmpty.cshtml",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Views\\Customer\\CustomerListWithDefaultIfEmpty.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Views\\Customer\\CustomerListWithDefaultIfEmpty.cshtml",
+              "RelativeToolTip": "EFStoreFlow\\Views\\Customer\\CustomerListWithDefaultIfEmpty.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T09:28:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EFStoreFlow\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EFStoreFlow\\EFStoreFlow\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EFStoreFlow\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAzwJQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:26:00.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

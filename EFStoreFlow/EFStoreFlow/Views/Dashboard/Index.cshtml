@@ -1,0 +1,62 @@
+﻿﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadComponentPartial")
+
+<body>
+    <div class="container-scroller">
+
+        @await Component.InvokeAsync("_NavbarComponentPartial")
+
+        <div class="container-fluid page-body-wrapper">
+
+            @await Component.InvokeAsync("_ThemeSettingComponentPartial")
+
+            @await Component.InvokeAsync("_RightSidebarComponentPartial")
+
+            @await Component.InvokeAsync("_SidebarComponentPartial")
+
+            <div class="main-panel">
+                <div class="content-wrapper">
+                    <div class="page-header">
+                        <h3 class="page-title">
+                            Dashboard
+                        </h3>
+                    </div>
+
+                    @await Component.InvokeAsync("_CardStatisticComponentPartial")
+
+                    @await Component.InvokeAsync("_ChartComponentPartial")
+                    <div class="row">
+                        @await Component.InvokeAsync("_SaleStatusComponentPartial")
+
+                        @await Component.InvokeAsync("_ActivityComponentPartial")
+
+                        @await Component.InvokeAsync("_DailySalesComponentPartial")
+                    </div>
+
+                    @await Component.InvokeAsync("_Last5MessagesComponentPartial")
+                    <div class="row">
+                        @await Component.InvokeAsync("_SalesDataComponentPartial")
+                    </div>
+                    <div class="row">
+                        @await Component.InvokeAsync("_TodoComponentPartial")
+                        @await Component.InvokeAsync("_Last5ProductsComponentPartial")
+                    </div>
+                </div>
+                @await Component.InvokeAsync("_FooterComponentPartial")
+                <!-- partial -->
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    @await Component.InvokeAsync("_ScriptComponentPartial")
+</body>
+
+
+</html>
